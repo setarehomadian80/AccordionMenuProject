@@ -22,4 +22,4 @@ This project demonstrates a responsive and animated **Accordion Menu** built wit
 ## 📺 Live Demo
 
 You can view the live demo of this project here:  
-👉 [Click to view the demo](https://your-live-demo-link.com)
+👉 [Click to view the demo](https://setarehomadian80.github.io/AccordionMenuProject/)
