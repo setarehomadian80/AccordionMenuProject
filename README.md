@@ -1,6 +1,6 @@
 # Accordion Menu Project
 
-![Screenshot 1](image/Screenshot 2025-07-31 192541.png)
+![Accordion Screenshot](image/Screenshot 2025-07-31 192541.png)
 ![Screenshot 2](./screenshots/screenshot2.png)
 
 This project demonstrates a responsive and animated **Accordion Menu** built with **HTML, CSS, and JavaScript**.
@@ -19,4 +19,7 @@ This project demonstrates a responsive and animated **Accordion Menu** built wit
 - CSS3 
 - JavaScript
 
-yourusername/your-repo-name.git
+## 📺 Live Demo
+
+You can view the live demo of this project here:  
+👉 [Click to view the demo](https://your-live-demo-link.com)
