@@ -1,7 +1,7 @@
 # Accordion Menu Project
 
 ![Accordion Screenshot](image/Screenshot%202025-07-31%20192541.png)
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 2](image/Screenshot%202025-07-31%20192610.png)
 
 This project demonstrates a responsive and animated **Accordion Menu** built with **HTML, CSS, and JavaScript**.
 
