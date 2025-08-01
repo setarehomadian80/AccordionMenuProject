@@ -14,9 +14,7 @@ headers.forEach((headers, index) => {
     for (let i = 0; i < myP.length; i++) {
       if (i === index) {
         toggleclick(myP[i]);
-      } else {
-        myP[i].style.height = "0";
-      }
+      } 
     }
   });
 });
